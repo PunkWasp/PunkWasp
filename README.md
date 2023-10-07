@@ -69,4 +69,4 @@ I've been programming on and off since I was 12 years old, mostly with HTML, CSS
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/PunkWasp"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li></ul>
+<p><a href="https://www.ko-fi.com/PunkWasp"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></p>
