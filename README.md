@@ -6,9 +6,9 @@ I'm a hobbyist web developer, part of the web revival movement, and an artist.
 
 ## Links
 
-*   🖥️  Check out [my personal website](http://punkwasp.neocities.org)
+*   🖥️  Check out [my personal website](http://punkwasp.leprd.space)
 *   ✉️  You can contact me at [punkwasp@protonmail.com](mailto:punkwasp@protonmail.com)
-*   🚀  I'm currently working on [Art Hive Studio](http://arthive.marigold.town) and the [Acing The Internet webring](https://acingtheinternet.netlify.app)
+*   🚀  I'm currently working on [Art Hive Studio](http://arthive.marigold.town)
 
 ## Support me
 
